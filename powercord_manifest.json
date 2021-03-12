@@ -1,0 +1,8 @@
+{
+    "name": "update tester",
+    "description": "tests for git updates",
+    "version": "1",
+    "author": "void#1000",
+    "theme": "_indexmain.scss",
+    "license": "MIT"
+}

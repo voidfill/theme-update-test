@@ -1,0 +1,9 @@
+@import url('');
+
+$file-ver: 1.0.0.00;
+
+@if $file-ver != $global-ver {
+    .containerDefault--pIXnN {
+        background-color: aqua;
+    }
+}
